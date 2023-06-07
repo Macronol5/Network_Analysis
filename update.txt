@@ -1,0 +1,8 @@
+1.(done)first extract the data(source,destination,etc) and store it in csv file
+2.(done)run the code on this csv as an input and generate another csv file with has the virus total analysis
+3.(done)run virus total only on public IP address which mean dont consider private ip address such as 10.x.x.x, 172.16.x.x,
+192.168.x.x
+4.(done)run virus total for IP not for url
+5.(add on) find out another api like virus total and add the data from this new ip reputation sharing portal.
+6. once ready with the updated code as for bigger file and real time files
+7.add country details against every public ip

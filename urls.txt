@@ -1,0 +1,41 @@
+Main:
+https://fraudguard.io/ - it will work same as virustotal output threat and risk_level
+https://www.virustotal.com/gui/home/upload
+https://threatjammer.com/ - same
+https://www.talosintelligence.com/ - it is a world wide spam,malware and mails
+filescan.io - similar but no much information about threads - if only accept urls
+https://maldatabase.com/ - work same threat_level
+
+https://honeydb.io/ - its will not analysis any virus but it will redirect to other website
+https://www.rstcloud.com/rst-threat-feed/ - same
+
+
+mid main 
+https://maltiverse.com/start - huge data of IPs traffic source to dest, exploit and file used for execution
+
+
+
+If Database Exist
+https://www.abuseipdb.com/ - same as virustotal
+Greynoise.io  - same as virustotal 
+
+
+https://www.maxmind.com/en/high-risk-ip-sample-list
+
+
+Usefull
+focsec.com - it will check wheather it is [proxy, vpn, tor, bot]
+crowdsec - opensource tool to protect server from firewalls
+https://www.maxmind.com/en/high-risk-ip-sample-list - it has a list of all IP address which are not safe
+https://osint.digitalside.it/ - it has all the reported malwares 
+https://feodotracker.abuse.ch/ - it has a bunch of IP list which is harmfull
+https://labs.inquest.net/ - it contain DB of IP which is blocked 
+https://www.iblocklist.com/lists - IP is seperated based on Categories
+https://jamesbrine.com.au/ - it as huge data base of CVE
+https://majestic.com/ - all domain with total traffic
+https://malpedia.caad.fkie.fraunhofer.de/ - rules of YARA 
+https://bazaar.abuse.ch/ - you can submit the malware 
+https://openphish.com/index.html - physhing websites
+https://feed.seguranca-informatica.pt/index.php - to submit phishing website and malwares
+https://www.phishtank.com/index.php - check website is phishing or not 
+https://iocfeed.mrlooquer.com/ - based on the country it will have data
